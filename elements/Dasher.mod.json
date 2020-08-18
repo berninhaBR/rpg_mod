@@ -1,0 +1,12 @@
+{
+  "_fv": 10,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "END",
+    "keyBindingName": "Dasher",
+    "keyBindingCategoryKey": "movement",
+    "onKeyPressed": {
+      "name": "DasherOnKeyPressed"
+    }
+  }
+}
