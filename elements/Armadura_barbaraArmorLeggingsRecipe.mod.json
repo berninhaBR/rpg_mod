@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Blocks.TNT"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Items.GOLDEN_LEGGINGS"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Armadura_barbaraArmor.legs"
+    },
+    "name": "armadura_barbara_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "rpg_craft:custom/granada",
+  "textures": {
+    "0": "rpg_craft:blocks/granada",
+    "particle": "rpg_craft:items/mana_fruit"
+  }
+}

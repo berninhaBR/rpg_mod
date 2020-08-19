@@ -1,0 +1,25 @@
+{
+  "_fv": 10,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "mana_fruit",
+    "customModelName": "Normal",
+    "name": "Mana fruit",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Rpg"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 2.0,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ManafruitRightClickedInAir"
+    }
+  }
+}

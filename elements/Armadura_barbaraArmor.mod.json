@@ -1,0 +1,53 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "armadura_barbara_head",
+    "enableBody": true,
+    "textureBody": "armadura_barbara_body",
+    "enableLeggings": true,
+    "textureLeggings": "armadura_barbara_leggings",
+    "enableBoots": true,
+    "textureBoots": "armadura_barbara_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "armadura_barbara_",
+    "helmetName": "Armadura_barbara Helmet",
+    "bodyName": "Armadura_barbara Chestplate",
+    "leggingsName": "Armadura_barbara Leggings",
+    "bootsName": "Armadura_barbara Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 15,
+    "damageValueHelmet": 2,
+    "damageValueBody": 5,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

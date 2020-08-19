@@ -1,0 +1,36 @@
+{
+  "_fv": 10,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "armadura_barbara",
+    "customModelName": "Normal",
+    "name": "Aszc",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Blocks.RED_SANDSTONE#0"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.0,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Estructuregeneratorstonecube"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

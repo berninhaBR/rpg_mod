@@ -44,6 +44,10 @@
           {
             "name": "z",
             "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
           }
         ]
       }
@@ -56,14 +60,388 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dasher"
+    },
+    {
+      "name": "ManatestDisplayOverlayIngame",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manatest_display_overlay_ingame",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Manatest",
+      "type": "overlay",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manatest"
+    },
+    {
+      "name": "Mana2",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_2",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sa",
+      "type": "overlay",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sa"
+    },
+    {
+      "name": "Mana1",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_1",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Maina2",
+      "type": "overlay",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maina_2"
+    },
+    {
+      "name": "Semmaninha",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "semmaninha",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Semmana",
+      "type": "overlay",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "semmana"
+    },
+    {
+      "name": "ManafruitRightClickedInAir",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manafruit_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Manafruta",
+      "type": "food",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manafruta"
+    },
+    {
+      "name": "Manafruit",
+      "type": "loottable",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manafruit"
+    },
+    {
+      "name": "CubaoDePedra",
+      "type": "structure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cubao_de_pedra"
+    },
+    {
+      "name": "Lapide",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapide"
+    },
+    {
+      "name": "InvisevelBulletHitsBlock",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "invisevel_bullet_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Invisevel",
+      "type": "gun",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "invisevel"
+    },
+    {
+      "name": "GranadadetrovaoRightClickedInAir",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granadadetrovao_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Granadadetrovao",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granadadetrovao"
+    },
+    {
+      "name": "Estructuregeneratorstonecube",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "estructuregeneratorstonecube"
+    },
+    {
+      "name": "Structure_stone_cube",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "structure_stone_cube",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aszc",
+      "type": "gun",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aszc"
+    },
+    {
+      "name": "EstructuregeneratorstonecubeRightClickedInAir",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "estructuregeneratorstonecube_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Armadura_barbaraArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armadura_barbara_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Armadura_barbaraArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armadura_barbara_armor_helmet_recipe"
+    },
+    {
+      "name": "Armadura_barbaraArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armadura_barbara_armor_body_recipe"
+    },
+    {
+      "name": "Armadura_barbaraArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armadura_barbara_armor_leggings_recipe"
+    },
+    {
+      "name": "Armadura_barbaraArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armadura_barbara_armor_boots_recipe"
+    },
+    {
+      "name": "Lapideloot",
+      "type": "loottable",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapideloot"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "mana",
+      "type": "number",
+      "scope": "world",
+      "value": "3.0"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.rpg_craft.estructuregeneratorstonecube": "Estructure generator stone cube",
+      "block.rpg_craft.lapide": "Lapide",
+      "item.rpg_craft.armadura_barbara_armor_boots": "Armadura_barbara Boots",
       "itemGroup.tabrpg": "Rpg",
       "key.mcreator.dasher": "Dasher",
+      "item.rpg_craft.manafruta": "Mana fruit",
+      "item.rpg_craft.armadura_barbara_armor_leggings": "Armadura_barbara Leggings",
+      "item.rpg_craft.armadura_barbara_armor_chestplate": "Armadura_barbara Chestplate",
+      "item.rpg_craft.aszc": "Aszc",
+      "item.rpg_craft.granadadetrovao": "Granada de trovao ",
+      "item.rpg_craft.invisevel": "Invisevel",
+      "item.rpg_craft.armadura_barbara_armor_helmet": "Armadura_barbara Helmet",
       "item.rpg_craft.dash": "Dash"
     }
   },

@@ -1,0 +1,39 @@
+{
+  "group": "rpg_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "minecraft:blue_ice"
+    },
+    "4": {
+      "item": "minecraft:golden_boots"
+    },
+    "5": {
+      "item": "minecraft:blue_ice"
+    },
+    "6": {
+      "item": "rpg_craft:dash"
+    },
+    "8": {
+      "item": "rpg_craft:dash"
+    }
+  },
+  "result": {
+    "item": "rpg_craft:armadura_barbara_armor_boots",
+    "count": 1
+  }
+}

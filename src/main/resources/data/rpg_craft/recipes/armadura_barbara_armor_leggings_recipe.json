@@ -1,0 +1,42 @@
+{
+  "group": "rpg_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tnt"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "minecraft:tnt"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "minecraft:golden_leggings"
+    },
+    "5": {
+      "item": "minecraft:nether_star"
+    },
+    "6": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    },
+    "8": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "rpg_craft:armadura_barbara_armor_leggings",
+    "count": 1
+  }
+}

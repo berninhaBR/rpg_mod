@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGH",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "no mana",
+          "color": {
+            "value": -6750208,
+            "falpha": 0.0
+          },
+          "name": "no mana",
+          "x": 2,
+          "y": 3
+        }
+      }
+    ],
+    "baseTexture": "",
+    "displayCondition": {
+      "name": "Semmaninha"
+    }
+  }
+}

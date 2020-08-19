@@ -1,0 +1,97 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 3,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DYE#15"
+            },
+            "weight": 300
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.BONE"
+            },
+            "weight": 200
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Blocks.BONE_BLOCK"
+            },
+            "weight": 100
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.IRON_HELMET"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.IRON_CHESTPLATE"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.IRON_LEGGINGS"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.IRON_BOOTS"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Armadura_barbaraArmor.helmet"
+            },
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Armadura_barbaraArmor.body"
+            },
+            "weight": 1
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Armadura_barbaraArmor.legs"
+            },
+            "weight": 1
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Armadura_barbaraArmor.boots"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "blocks/lapide",
+    "namespace": "mod"
+  }
+}

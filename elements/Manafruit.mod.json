@@ -1,0 +1,48 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 2,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Blocks.SAPLING#0"
+            },
+            "weight": 200
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.APPLE"
+            },
+            "weight": 50
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Manafruta"
+            },
+            "weight": 5
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.GOLDEN_APPLE#0"
+            },
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "name": "blocks/oakleaf",
+    "namespace": "minecraft"
+  }
+}

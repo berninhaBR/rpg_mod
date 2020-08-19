@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_meal",
+          "weight": 300
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 200
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_block",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_helmet",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_chestplate",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_leggings",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_boots",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rpg_craft:armadura_barbara_armor_helmet",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rpg_craft:armadura_barbara_armor_chestplate",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rpg_craft:armadura_barbara_armor_leggings",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rpg_craft:armadura_barbara_armor_boots",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

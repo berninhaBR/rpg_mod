@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rpg_craft:block/lapide"
+    },
+    "facing=east": {
+      "model": "rpg_craft:block/lapide",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rpg_craft:block/lapide",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rpg_craft:block/lapide",
+      "y": 270
+    }
+  }
+}

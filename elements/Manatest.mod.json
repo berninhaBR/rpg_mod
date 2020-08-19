@@ -1,0 +1,31 @@
+{
+  "_fv": 10,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGH",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "mana_dnv.png",
+          "name": "mana_dnv.png",
+          "x": 28,
+          "y": 6
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mana_dnv.png",
+          "name": "mana_dnv.png",
+          "x": 5,
+          "y": 6
+        }
+      }
+    ],
+    "baseTexture": "",
+    "displayCondition": {
+      "name": "Mana2"
+    }
+  }
+}

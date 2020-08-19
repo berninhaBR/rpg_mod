@@ -96,6 +96,7 @@ public class DasherKeyBinding extends RpgCraftModElements.ModElement {
 				$_dependencies.put("x", x);
 				$_dependencies.put("y", y);
 				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
 				DasherOnKeyPressedProcedure.executeProcedure($_dependencies);
 			}
 		}

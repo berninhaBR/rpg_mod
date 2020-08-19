@@ -1,5 +1,15 @@
 {
+  "item.rpg_craft.estructuregeneratorstonecube": "Estructure generator stone cube",
+  "block.rpg_craft.lapide": "Lapide",
+  "item.rpg_craft.armadura_barbara_armor_boots": "Armadura_barbara Boots",
   "itemGroup.tabrpg": "Rpg",
   "key.mcreator.dasher": "Dasher",
+  "item.rpg_craft.manafruta": "Mana fruit",
+  "item.rpg_craft.armadura_barbara_armor_leggings": "Armadura_barbara Leggings",
+  "item.rpg_craft.armadura_barbara_armor_chestplate": "Armadura_barbara Chestplate",
+  "item.rpg_craft.aszc": "Aszc",
+  "item.rpg_craft.granadadetrovao": "Granada de trovao ",
+  "item.rpg_craft.invisevel": "Invisevel",
+  "item.rpg_craft.armadura_barbara_armor_helmet": "Armadura_barbara Helmet",
   "item.rpg_craft.dash": "Dash"
 }
